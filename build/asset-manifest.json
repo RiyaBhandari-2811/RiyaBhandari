@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2a37cec.css",
+    "main.js": "/static/js/main.c1e1fcde.js",
+    "static/media/RiyaProfilePic.jpg": "/static/media/RiyaProfilePic.c838bb75b347c7a5442b.jpg",
+    "static/media/WebScraping.jpeg": "/static/media/WebScraping.f60b84564848ec3f79b5.jpeg",
+    "static/media/GymManagementSystemIMG.jpg": "/static/media/GymManagementSystemIMG.a6f846081631c63a4c49.jpg",
+    "static/media/SayItSS.jpg": "/static/media/SayItSS.37329084ff192c5153df.jpg",
+    "index.html": "/index.html",
+    "main.c2a37cec.css.map": "/static/css/main.c2a37cec.css.map",
+    "main.c1e1fcde.js.map": "/static/js/main.c1e1fcde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2a37cec.css",
+    "static/js/main.c1e1fcde.js"
+  ]
+}
