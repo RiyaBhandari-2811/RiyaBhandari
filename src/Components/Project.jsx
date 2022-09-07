@@ -7,14 +7,14 @@ function Project() {
   return (
     <div
       id="project"
-      className="bg-bodyBg font-poppins w-screen px-28 py-20 h-full "
+      className="bg-bodyBg font-poppins w-screen py-12 px-8 sm:px-28 sm:py-20 h-full "
     >
       <div className="flex justify-center items-center mb-10">
-        <div className="bg-gray-700 w-20 h-0.5 mr-4 "></div>
-        <div className="text-2xl text-fontPurple font-semibold mr-1 ">
+        <div className="bg-gray-700 w-14 sm:w-20 h-0.5 mr-4 "></div>
+        <div className=" text-sm sm:text-2xl text-fontPurple font-semibold mr-2 ">
           NoteWorthy Projects
         </div>
-        <div className="bg-gray-700 w-20 h-0.5 "></div>
+        <div className="bg-gray-700 w-14 sm:w-20 h-0.5 "></div>
       </div>
 
       <div>

@@ -10,12 +10,12 @@ function Experience() {
   return (
     <div
       id="experience"
-      className="bg-bodyBg font-poppins w-screen px-24 py-20 h-full "
+      className="bg-bodyBg font-poppins w-screen  py-16 px-4 sm:px-24 sm:py-20 h-full "
     >
       <div>
         <div className="flex justify-end ">
-          <div className="bg-gray-700 w-40 h-0.5 mr-6 mt-4"></div>
-          <div className="text-3xl text-fontPurple tracking-wide font-semibold ">
+          <div className="bg-gray-700 w-12 sm:w-40 h-0.5 mr-6 mt-4"></div>
+          <div className=" text-xl sm:text-3xl text-fontPurple tracking-wide font-semibold ">
             Where I've Worked
           </div>
         </div>

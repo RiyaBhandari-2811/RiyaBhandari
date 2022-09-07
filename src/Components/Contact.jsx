@@ -5,14 +5,14 @@ function Contact() {
   return (
     <div
       id="contact"
-      className="bg-bodyBg font-poppins w-screen px-28 py-20 h-full "
+      className="bg-bodyBg font-poppins w-screen  py-16 px-8 sm:px-28 sm:py-20 h-full "
     >
       <div className="flex flex-col justify-center items-center">
        
         <div className=" text-fontPurple text-3xl  ">
           <p> Let's Work Together !! </p>
         </div>
-        <div className=" font-infoFont text-center  p-8 text-xl md:w-3/5  ">
+        <div className=" font-infoFont text-center p-8 text-xl md:w-3/5  ">
           <p>
             Don't worry , I hate forms too ! Just shoot me an email by clicking
             the below button and I'll be in touch ASAP ! Although I'm currently

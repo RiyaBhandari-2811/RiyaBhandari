@@ -12,14 +12,13 @@ function About() {
     "SQL",
   ];
   return (
-    <div id="about" className="bg-bodyBg font-poppins w-screen px-28 py-20 h-full  ">
+    <div id="about" className="bg-bodyBg font-poppins w-screen py-16 px-8 sm:px-28 sm:py-20 h-full  ">
       <div className="flex justify-center items-center">
-      <div className='bg-gray-700 w-24 h-0.5 mr-6'></div>
-        <div className="text-4xl text-fontPurple tracking-wide font-semibold  ">
+      <div className='bg-gray-700  w-14 sm:w-24 h-0.5 mr-6'></div>
+        <div className=" text-lg sm:text-4xl text-fontPurple tracking-wide font-semibold  ">
           About Me
         </div>
-        {/* <div className=" mt-2 w-60 h-0.5 bottom-0 bg-gray-700 "></div> */}
-        <div className='bg-gray-700 w-24 h-0.5 ml-6'></div>
+        <div className='bg-gray-700  w-14 sm:w-24 h-0.5 ml-6'></div>
       </div>
 
       <div className="flex justify-between p-4 flex-col-reverse md:flex-row flex-wrap">
@@ -35,7 +34,7 @@ function About() {
             been working with recently:
           </p>
           <br />
-          <div className="grid grid-cols-2">
+          <div className="grid grid-cols-2 ">
             {techs.map((tech) => (
               <span>
                 <IoMdArrowDropright className="inline text-fontPurple " />

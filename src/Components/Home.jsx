@@ -26,13 +26,13 @@ function Home() {
       ></div>
 
       <div className="flex flex-col justify-center items-center h-3/4 tracking-wide">
-        <p className=" text-fontPurple text-4xl  leading-[3.7rem] font-poppins ">
+        <p className=" text-fontPurple text-3xl sm:text-4xl  leading-[3.7rem] font-poppins ">
           Hi , my name is
         </p>
-        <p className=" text-fontBlack text-7xl  leading-[3.7rem] font-heroFont ">
+        <p className=" text-fontBlack text-5xl sm:text-7xl  leading-[3.7rem] font-heroFont ">
           Riya Bhandari.
         </p>
-        <p className=" text-fontGrey text-2xl  leading-[3.7rem] uppercase font-poppins font-thin ">
+        <p className=" text-fontGrey text-xl sm:text-2xl  leading-[3.7rem] uppercase font-poppins font-thin ">
           Engineer | Web Developer
         </p>
       </div>
