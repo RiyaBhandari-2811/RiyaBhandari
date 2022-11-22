@@ -1,7 +1,7 @@
 import { TbBrandGithub } from "react-icons/tb";
 import { FiLinkedin, FiTwitter } from "react-icons/fi";
 import { BsInstagram } from "react-icons/bs";
-import { SayIt, WebScrapping, GymManagement } from "../assets/index";
+import { SayIt, WebScrapping, GymManagement, InstReelIMG, InstaReelIMG, HackerRank2 } from "../assets/index";
 import {FaLaptopCode , FaGraduationCap} from "react-icons/fa"
 
 export const navLinks = [
@@ -47,14 +47,22 @@ export const socialMedia = [
 ];
 
 export const projectDetails = [
+  
   {
-    image:  SayIt ,
-    title: "Say It",
+    image: InstaReelIMG ,
+    title: "Instagram-Reels",
     description:
-      "Say It is an Google Chrome Extension that help users to convert the entered TEXT to SPEECH .",
-    techStack: ["HTML", "CSS", "JS"],
-    links:
-      "https://github.com/RiyaBhandari-2811/Chrome-Extension/tree/main/Say%20It",
+      "Instagram-Reels helps you to upload videos to share with your friends or anyone . It is basic clone of the instagram Reel section . It has functionalities like sign in , logout , forgot password , like & comment on post , upload video option etc . ",
+    techStack: ["NextJs", "Firebase"],
+    links: "https://github.com/RiyaBhandari-2811/Instagram_Reels",
+  },
+  {
+    image: HackerRank2 ,
+    title: "HackerRank Automation",
+    description:
+      "This is an automation Based Project . An intuitive code which logs into hackerrank.com and goes on to its algorithm page. Further, writes answers to the questions and submits them successfully.",
+    techStack: ["JS-Promises" , "Node.js", "Puppeteer"],
+    links: "https://github.com/RiyaBhandari-2811/HackerRankAutomation",
   },
   {
     image: GymManagement ,
@@ -71,6 +79,15 @@ export const projectDetails = [
       "It is basically a  Web Scrapper .  web scrapper is a technique used to collect content and data from internet web pages .",
     techStack: ["Node.Js", "Cheerio", "PdfKit"],
     links: "https://github.com/RiyaBhandari-2811/GitHub-Scrapper-",
+  },
+  {
+    image:  SayIt ,
+    title: "Say It",
+    description:
+      "Say It is an Google Chrome Extension that help users to convert the entered TEXT to SPEECH .",
+    techStack: ["HTML", "CSS", "JS"],
+    links:
+      "https://github.com/RiyaBhandari-2811/Chrome-Extension/tree/main/Say%20It",
   },
 ];
 
