@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2a37cec.css",
-    "main.js": "/static/js/main.8636b8ea.js",
+    "main.css": "/static/css/main.d43dbfac.css",
+    "main.js": "/static/js/main.8c0e26ac.js",
+    "static/media/NoteWorthyProjectImg.png": "/static/media/NoteWorthyProjectImg.4716d7379b9d2214be93.png",
     "static/media/InstaReel_IMG.png": "/static/media/InstaReel_IMG.ec1667fd79815cd07533.png",
     "static/media/RiyaProfilePic.jpg": "/static/media/RiyaProfilePic.c838bb75b347c7a5442b.jpg",
     "static/media/WebScraping.jpeg": "/static/media/WebScraping.f60b84564848ec3f79b5.jpeg",
     "static/media/GymManagementSystemIMG.jpg": "/static/media/GymManagementSystemIMG.a6f846081631c63a4c49.jpg",
+    "static/media/SugarcaneApp.jpeg": "/static/media/SugarcaneApp.b2538adea9d5250eeb63.jpeg",
     "static/media/SayItSS.jpg": "/static/media/SayItSS.37329084ff192c5153df.jpg",
     "static/media/HackerRank2.png": "/static/media/HackerRank2.c6e807edc91f3bba05bd.png",
     "index.html": "/index.html",
-    "main.c2a37cec.css.map": "/static/css/main.c2a37cec.css.map",
-    "main.8636b8ea.js.map": "/static/js/main.8636b8ea.js.map"
+    "main.d43dbfac.css.map": "/static/css/main.d43dbfac.css.map",
+    "main.8c0e26ac.js.map": "/static/js/main.8c0e26ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2a37cec.css",
-    "static/js/main.8636b8ea.js"
+    "static/css/main.d43dbfac.css",
+    "static/js/main.8c0e26ac.js"
   ]
 }
