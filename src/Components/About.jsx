@@ -4,21 +4,26 @@ import { IoMdArrowDropright } from "react-icons/io";
 
 function About() {
   const techs = [
-    " Java ",
     "JavaScript",
     "React.Js",
     "Express.Js",
     "Node.Js",
+    "MongoDB",
+    "Android Dev. (Java)",
+    " Java ",
     "SQL",
   ];
   return (
-    <div id="about" className="bg-bodyBg font-poppins w-screen py-16 px-8 sm:px-28 sm:py-20 h-full  ">
+    <div
+      id="about"
+      className="bg-bodyBg font-poppins w-screen py-16 px-8 sm:px-28 sm:py-20 h-full  "
+    >
       <div className="flex justify-center items-center">
-      <div className='bg-gray-700  w-14 sm:w-24 h-0.5 mr-6'></div>
+        <div className="bg-gray-700  w-14 sm:w-24 h-0.5 mr-6"></div>
         <div className=" text-lg sm:text-4xl text-fontPurple tracking-wide font-semibold  ">
           About Me
         </div>
-        <div className='bg-gray-700  w-14 sm:w-24 h-0.5 ml-6'></div>
+        <div className="bg-gray-700  w-14 sm:w-24 h-0.5 ml-6"></div>
       </div>
 
       <div className="flex justify-between p-4 flex-col-reverse md:flex-row flex-wrap">

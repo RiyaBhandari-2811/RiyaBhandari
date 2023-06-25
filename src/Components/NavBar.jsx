@@ -42,7 +42,7 @@ function NavBar() {
           </li>
         ))}
 
-        <a
+        {/* <a
           href="RiyaBhandari.pdf"
           download={"Riya_Bhandari.pdf"}
           className="p-2 text-xl"
@@ -54,7 +54,7 @@ function NavBar() {
           >
             RESUME
           </button>
-        </a>
+        </a> */}
       </ul>
     </nav>
   );
